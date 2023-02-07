@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jessiefowler23/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jessiefowler23/Azure-VMS-Rsource-Group-)
 - <b>Microsoft Azure</b>
-  Azure-VMS-Rsource-Group-(https://github.com/jessiefowler23/configure-ad)
+  -[Azure-VMS-Rsource-Group-(https://github.com/jessiefowler23/configure-ad)
   
 
 <h2>🤳Connect with me:</h2>
