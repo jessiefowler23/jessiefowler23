@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jessiefowler23/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jessiefowler23/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jessiefowler23/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jessiefowler23/Azure-VMS-Rsource-Group-)
 - <b>Microsoft Azure</b>
   Azure-VMS-Rsource-Group-(https://github.com/jessiefowler23/configure-ad)
   
